@@ -1,7 +1,8 @@
 <div align = "center">
 
 ### I follow the curse of "Hello World!".
-  
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89cff0&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Jean+C.M.;I'm+20+years+old;I'm+from+Brazil,+RJ)](https://git.io/typing-svg)
 
   <h1>💻 Main Skills:</h1>
 
