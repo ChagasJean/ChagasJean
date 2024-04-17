@@ -19,6 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![POWERBI](https://img.shields.io/badge/powerbi-%23FF9900.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 
   <h1>📝 Currently studying:</h1>
 
