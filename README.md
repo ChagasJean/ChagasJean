@@ -24,8 +24,5 @@
   <h1>📝 Currently studying:</h1>
 
 I'm currently studying cybersec and data analysis
- 
- # 💫 About Me:
-I study at Veiga de Almeida University and work with databases and data analysis using power bi | How to contact me: jeandaschagas1@gmail.com
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
