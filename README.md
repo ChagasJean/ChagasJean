@@ -24,11 +24,6 @@
   <h1>📝 Currently studying:</h1>
 
 I'm currently studying cybersec and data analysis
-  
-  <h1>🌐 Socials:</h1>
- 
-<a href="https://www.instagram.com/jeandxs_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jean-das-chagas-825a27234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
  # 💫 About Me:
 I study at Veiga de Almeida University and work with databases and data analysis using power bi | How to contact me: jeandaschagas1@gmail.com
