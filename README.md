@@ -23,6 +23,6 @@
 
   <h1>📝 Currently studying:</h1>
 
-I'm currently studying cybersec and data analysis
+I'm currently studying data analysis and database
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
