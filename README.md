@@ -25,4 +25,6 @@
 
 I'm currently studying data analysis and database
 
+![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
