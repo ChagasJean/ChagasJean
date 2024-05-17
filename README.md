@@ -26,6 +26,8 @@
 I'm currently studying data analysis and database
 
 <p align="center">
+
+  <h1></h1>
   
   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22rlmhsyswijsuosipqnitkiy)](https://open.spotify.com/user/22rlmhsyswijsuosipqnitkiy)
 </p>
