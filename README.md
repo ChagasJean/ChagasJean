@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChagasJean&layout=compact&hide_border=true&title_color=F08080&text_color=FFFFFF&bg_color=0d1117" />
+<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagasjean&layout=compact&hide_border=true&title_color=F08080&text_color=FFFFFF&bg_color=0d1117" />
 
 <p align="center">
 
