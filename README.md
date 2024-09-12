@@ -1,38 +1,48 @@
-<div align = "center">
+<h2 align="center">Hi 👋! My name is Jean and I'm a future data analyst, from RJ, Brazil</h2>
 
-### I follow the curse of "Hello World!".
+###
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F08080&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Jean;I'm+21+years+old;I'm+from+Brazil,+RJ)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chagasjean&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-  <h1>💻 Main Skills:</h1>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23008080.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![POWERBI](https://img.shields.io/badge/powerbi-%23FF9900.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+###
 
-  <h1>📝 Software used:</h1>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![POWERBI](https://img.shields.io/badge/powerbi-%23FF9900.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+###
 
-  <h1>📝 Currently studying:</h1>
+<br clear="both">
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://raw.githubusercontent.com/chagasjean/chagasjean/output/snake.svg" alt="Snake animation" />
 
-<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chagasjean&layout=compact&hide_border=true&title_color=F08080&text_color=FFFFFF&bg_color=0d1117" />
+###
 
-<p align="center">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/chagasjean/count.svg?"  />
+</div>
 
-
-  
-  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=22rlmhsyswijsuosipqnitkiy)](https://open.spotify.com/user/22rlmhsyswijsuosipqnitkiy)
-</p>
-
+###
