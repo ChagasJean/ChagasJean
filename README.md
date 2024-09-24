@@ -2,7 +2,7 @@
   <img height="100" src="https://media.tenor.com/HoXg2JXLbisAAAAj/capple.gif"  />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jean+das+Chagas+Morais;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B132FA&size=35&center=true&vCenter=true&width=1000&lines=Hey,+my+name+is+Jean+das+Chagas+Morais;Data+Analyst+from+Brazil;Welcome+to+my+GitHub!+:%29)](https://git.io/typing-svg)
 
 <h1 align="center"></h1>
 
