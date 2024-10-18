@@ -6,14 +6,10 @@
 
 
  
-  <div align="center" >
-
-   
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,nodejs,cs,cpp,py,mysql,figma,github,linux,windows,arduino,gamemakerstudio,linkedin,instagram" />
+  <div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,css,html,nodejs,cs,cpp,py,mysql,figma,github,linux,windows,arduino,gamemakerstudio,linkedin,instagram"/>
 </a>
-  <br />
-
   </div>
 
 
